@@ -1,4 +1,7 @@
 /*
+First- and Last-Touch Attribution with CoolTShirts.com
+*/
+/*
 Task 1:
 */
 SELECT COUNT(DISTINCT utm_campaign) as campaigns
